@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salomon</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Very Northern Utah!</h3>
 
-- 🔭 I’m currently working on **Comic Webpage App**
+- 🔭 I’m currently working on **[Comic Webpage App](https://github.com/escttsalo/comic-viewer)**
 
 - 🌱 I’m currently learning **Rust, Typescript, Reactnative**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **escttsalo@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1shnIsI9llcwOmsWnAXaLvfJVkFAOKzv4j7T4imvzN4k/edit?usp=sharing](https://docs.google.com/document/d/1shnIsI9llcwOmsWnAXaLvfJVkFAOKzv4j7T4imvzN4k/edit?usp=sharing)
+- 📄 Know about my experiences [here](https://docs.google.com/document/d/1shnIsI9llcwOmsWnAXaLvfJVkFAOKzv4j7T4imvzN4k/edit?usp=sharing)
 
 - ⚡ Fun fact **I've put an audio system (speakers, subs, etc.) in/on just about everything!**
 
